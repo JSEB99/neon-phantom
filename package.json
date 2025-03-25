@@ -1,0 +1,21 @@
+{
+  "name": "neon-abyss",
+  "displayName": "Neon Abyss",
+  "description": "purple & green neon theme style",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Abyss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Abyss-color-theme.json"
+      }
+    ]
+  }
+}
