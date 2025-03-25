@@ -1,12 +1,14 @@
 # Neon Abyss
 
-## Working with Markdown
+---
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+**Author:** JSEB99
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+[Source Code](https://github.com/JSEB99/neon-abyss)
+
+## Theme preview
+
+![theme-preview](./images/theme-preview.png)
 
 ## For more information
 

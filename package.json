@@ -1,8 +1,27 @@
 {
   "name": "neon-abyss",
   "displayName": "Neon Abyss",
-  "description": "purple & green neon theme style",
+  "description": "Purple & Green neon theme style 🖌️",
   "version": "0.0.1",
+  "publisher": "jseb99",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JSEB99/neon-abyss"
+  },
+  "keywords": [
+    "theme",
+    "tema",
+    "neon",
+    "Neon",
+    "abyss",
+    "purple",
+    "green",
+    "dark",
+    "jseb99",
+    "Neon Abyss",
+    "neon abyss",
+    "NeonAbyss"
+  ],
   "engines": {
     "vscode": "^1.98.0"
   },
