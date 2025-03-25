@@ -1,9 +1,9 @@
 {
-  "name": "neon-abyss",
-  "displayName": "Neon Abyss",
+  "name": "neon-phantom",
+  "displayName": "Neon Phantom",
   "description": "Purple & Green neon theme style 🖌️",
   "version": "0.0.1",
-  "publisher": "NeonAbyss",
+  "publisher": "NeonPhantom",
   "repository": {
     "type": "git",
     "url": "https://github.com/JSEB99/neon-abyss"
@@ -13,14 +13,14 @@
     "tema",
     "neon",
     "Neon",
-    "abyss",
+    "phantom",
     "purple",
     "green",
     "dark",
     "jseb99",
-    "Neon Abyss",
-    "neon abyss",
-    "NeonAbyss"
+    "Neon Phantom",
+    "neon phantom",
+    "NeonPhantom"
   ],
   "engines": {
     "vscode": "^1.98.0"
@@ -31,9 +31,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Neon Abyss",
+        "label": "Neon Phantom",
         "uiTheme": "vs-dark",
-        "path": "./themes/Neon Abyss-color-theme.json"
+        "path": "./themes/Neon Phantom-color-theme.json"
       }
     ]
   }
