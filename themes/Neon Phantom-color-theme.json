@@ -882,6 +882,15 @@
 			}
 		},
 		{
+			"name": "Markdown Plain Text",
+			"scope": [
+				"text.html.markdown"
+			],
+			"settings": {
+				"foreground": "#ffffff"
+			}
+		},
+		{
 			"name": "[VSCODE-CUSTOM] Markdown heading setext",
 			"scope": "markup.heading.setext",
 			"settings": {

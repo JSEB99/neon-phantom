@@ -1,10 +1,10 @@
-# Neon Abyss
+# Neon Phantom
 
 ---
 
 **Author:** JSEB99
 
-[Source Code](https://github.com/JSEB99/neon-abyss)
+[Source Code](https://github.com/JSEB99/neon-phantom)
 
 ## Theme preview
 
